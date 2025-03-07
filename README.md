@@ -1,1 +1,1 @@
-# M.R.S.S-Bot
+# MRS.S Bots
