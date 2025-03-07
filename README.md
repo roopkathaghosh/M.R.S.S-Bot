@@ -81,8 +81,7 @@ Users can interact with the chatbot by asking:
 
 The chatbot processes the query and provides personalized recommendations.
 
-
-5.Future Enhancements-
+Future Enhancements-
 
 Voice Assistance for hands-free interaction.
 
