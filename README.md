@@ -59,7 +59,9 @@ Set up API calls in your application using Python or JavaScript.
 
 3. Install Dependencies-
 
-pip install flask requests google-cloud-firestore
+pip install
+python-telegram-bot 
+openai python-dotenv nltk
 
 
 4. Run the Chatbot Backend-
